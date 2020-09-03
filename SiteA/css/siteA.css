@@ -1,1 +1,14 @@
+body {background-color: beige}
+h1{font-family: fantasy}
+#StudioArt{background-color: royalblue}
+#economics{background-color: antiquewhite}
+#politics{background-color: salmon}
+#ComputerScience {background-image: url("https://vignette.wikia.nocookie.net/mlp-and-skylanders-twinverse/images/7/77/Spike_%28My_Little_Pony_Friendship_Is_Magic%29.png/revision/latest/scale-to-width-down/250?cb=20181207201032")}
 
+img{height: 100px; 
+    width: 100px; }
+th,td{border: 4px solid hotpink}
+ p{font-size: 40px;}
+ p{font-family: monospace}
+#computerscience {color: red}
+tr td{font-weight: bold}
